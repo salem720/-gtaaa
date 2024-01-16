@@ -782,7 +782,7 @@ img {
 
 #instruction {
     --text-gradient: linear-gradient(130deg, #ffc2e8 30%, #50e6ff 70%);
-    background: url(/assets/grid-zCdIbjZu.svg) no-repeat 50% 100%/contain;
+    background: url(https://raw.githack.com/salem720/-gtaaa/main/grid-zCdIbjZu.svg) no-repeat 50% 100%/contain;
     border-bottom: 1px solid rgba(80,230,255,.2)
 }
 
