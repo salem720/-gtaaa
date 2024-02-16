@@ -156,6 +156,11 @@ button:not(:disabled),[type=button]:not(:disabled) {
     padding: 0
 }
 
+.salem{
+    text-align: justify;
+}
+
+
 ::file-selector-button {
     font: inherit;
     -webkit-appearance: button
